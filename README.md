@@ -130,3 +130,5 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-09-22*: **Saffire: Context-sensitive Function Specialization against Code Reuse Attacks** @ EuroS&P 2020
 - *2020-09-23*: **Systematic comparison of symbolic execution systems: intermediate representation and its generation** @ ACSAC 2019
 - *2020-09-24*: **When Function Signature Recovery Meets Compiler Optimization** @  IEEE S&P 2021
+- *2020-09-25*: **Reading between the Lines: An Extensive Evaluation of the Security and Privacy Implications of EPUB Reading Systems** @ IEEE S&P 2021 
+- *2020-09-27*: **Muzz: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded Programs** @ USENIX Security 2020
