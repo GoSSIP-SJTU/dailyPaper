@@ -25,9 +25,9 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-04-22*: **“Anyone Else Seeing this Error” Community, System Administrators, and Patch Information** @ EuroS&P 2020
 - *2020-04-23*: **BinRec** @ EuroSys 2020
 - *2020-04-24*: **HYPER-CUBE** @ NDSS 2020
-- *2020-04-27*: **An Empirical Assessment of Security Risks of Global Android Banking Apps** @ EuroSec2020
+- *2020-04-27*: **An Empirical Assessment of Security Risks of Global Android Banking Apps** @ ICSE 2020
 - *2020-04-28*: **NOJITSU** @ NDSS 2020
-- *2020-04-29*: **Binary Rewriting without Control Flow Recovery** @ EuroSys2020
+- *2020-04-29*: **Binary Rewriting without Control Flow Recovery** @ PLDI 2020
 - *2020-04-30*: **MassBrowser** @ NDSS 2020
 - *2020-05-06*: **Scalable Validation of Binary Lifters** @ PLDI 2020
 - *2020-05-07*: **Binary Debloating for Security via Demand Driven Loading** @ PLDI 2020
