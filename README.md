@@ -134,3 +134,4 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-09-27*: **Muzz: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded Programs** @ USENIX Security 2020
 - *2020-09-28*: **SoK: Understanding the Prevailing Security Vulnerabilities in TrustZone-assisted TEE Systems** @ S&P 2020
 - *2020-09-29*: **BigMAC: Fine-Grained Policy Analysis of Android Firmware** @ USENIX Security 2020
+- *2020-09-30*: **A Billion Open Interfaces for Eve and Mallory: MitM, DoS, and Tracking Attacks on iOS and macOS Through Apple Wireless Direct Link** @ USENIX Security 2019
