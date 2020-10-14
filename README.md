@@ -135,4 +135,6 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-09-28*: **SoK: Understanding the Prevailing Security Vulnerabilities in TrustZone-assisted TEE Systems** @ S&P 2020
 - *2020-09-29*: **BigMAC: Fine-Grained Policy Analysis of Android Firmware** @ USENIX Security 2020
 - *2020-09-30*: **A Billion Open Interfaces for Eve and Mallory: MitM, DoS, and Tracking Attacks on iOS and macOS Through Apple Wireless Direct Link** @ USENIX Security 2019
-- *2020-10-10*: **That Was Then, This Is Now: A Security Evaluation of Password Generation, Storage, and Autofill in Browser-Based Password Managers** @ USENIX Security 2020 
+- *2020-10-10*: **That Was Then, This Is Now: A Security Evaluation of Password Generation, Storage, and Autofill in Browser-Based Password Managers** @ USENIX Security 2020
+- *2020-10-12*: **ConFIRM: Evaluating Compatibility and Relevance of Control-flow Integrity Protections forModern Software** @ USENIX Security 2019
+- *2020-10-13*: **A Novel Dynamic Analysis Infrastructure to Instrument Untrusted Execution Flow Across User-Kernel Spaces** @  S&P 2021 
