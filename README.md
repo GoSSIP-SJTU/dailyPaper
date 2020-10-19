@@ -139,4 +139,5 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-10-12*: **ConFIRM: Evaluating Compatibility and Relevance of Control-flow Integrity Protections forModern Software** @ USENIX Security 2019
 - *2020-10-13*: **A Novel Dynamic Analysis Infrastructure to Instrument Untrusted Execution Flow Across User-Kernel Spaces** @ S&P 2021 
 - *2020-10-14*: **What’s in an Exploit? An Empirical Analysis of Reflected Server XSS Exploitation Techniques** @ RAID 2020
+- *2020-10-16*: **Finding Bugs Using Your Own Code: Detecting Functionally-similar yet Inconsistent Code** @ USENIX Security 2021
 
