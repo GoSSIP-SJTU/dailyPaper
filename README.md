@@ -9,7 +9,6 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-02-17*: **Why Cryptosystems Fail Revisited**
 - *2020-02-18*: **Nail: A Practical Tool for Parsing  and Generating Data Formats** @ OSDI 2014
 - *2020-02-19*: **Postcards from the Post-HTTP World:Amplification of HTTPS Vulnerabilities in the Web Ecosystem** @ IEEE S&P 2019
-
 - *2020-03-20*: **Revealing Injection Vulnerabilities by Leveraging Existing Tests** @ ICSE 2020
 - *2020-03-23*: **Serving Mobile Apps A Slice at a Time** @ Eurosys 2019
 - *2020-03-24*: **CRYPTOGUARD** @ CCS 2019
@@ -147,6 +146,6 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-10-13*: **A Novel Dynamic Analysis Infrastructure to Instrument Untrusted Execution Flow Across User-Kernel Spaces** @ S&P 2021 
 - *2020-10-14*: **What’s in an Exploit? An Empirical Analysis of Reflected Server XSS Exploitation Techniques** @ RAID 2020
 - *2020-10-16*: **Finding Bugs Using Your Own Code: Detecting Functionally-similar yet Inconsistent Code** @ USENIX Security 2021
-
 - *2020-10-19*: **HyDiff: Hybrid Differential Software Analysis** @ ICSE 2020
+- *2020-10-20*: **ParmeSan: Sanitizer-guided Greybox Fuzzing** @ USENIX Security 2020
 
