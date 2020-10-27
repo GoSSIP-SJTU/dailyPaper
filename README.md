@@ -148,6 +148,8 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-10-16*: **Finding Bugs Using Your Own Code: Detecting Functionally-similar yet Inconsistent Code** @ USENIX Security 2021
 - *2020-10-19*: **HyDiff: Hybrid Differential Software Analysis** @ ICSE 2020
 - *2020-10-20*: **ParmeSan: Sanitizer-guided Greybox Fuzzing** @ USENIX Security 2020
-- *2020-10-21*: **PatchScope: Memory Object Centric Patch Diffing**@ CCS 2020
+- *2020-10-21*: **PatchScope: Memory Object Centric Patch Diffing** @ CCS 2020
 - *2020-10-22*: **Lightweight Kernel Isolation with Virtualization and VM Functions** @ VEE 2020
+- *2020-10-23*: **A Comb for Decompiled C Code** @ AsiaCCS 2020 
+- *2020-10-26*: **HeapExpo: Pinpointing Promoted Pointers to Prevent Use-After-Free Vulnerabilities** @ ACSAC 2020 
 
