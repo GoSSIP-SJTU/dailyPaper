@@ -152,4 +152,6 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-10-22*: **Lightweight Kernel Isolation with Virtualization and VM Functions** @ VEE 2020
 - *2020-10-23*: **A Comb for Decompiled C Code** @ AsiaCCS 2020 
 - *2020-10-26*: **HeapExpo: Pinpointing Promoted Pointers to Prevent Use-After-Free Vulnerabilities** @ ACSAC 2020 
+- *2020-10-27*: **FuzziFication: Anti-Fuzzing Techniques** @ USENIX Security 2019 
+- *2020-10-28*: **NativeX: Native Executioner Freezes Android** @ ASIA CCS 2020
 
