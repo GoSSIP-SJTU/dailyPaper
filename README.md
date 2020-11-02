@@ -154,4 +154,6 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-10-26*: **HeapExpo: Pinpointing Promoted Pointers to Prevent Use-After-Free Vulnerabilities** @ ACSAC 2020 
 - *2020-10-27*: **FuzziFication: Anti-Fuzzing Techniques** @ USENIX Security 2019 
 - *2020-10-28*: **NativeX: Native Executioner Freezes Android** @ ASIA CCS 2020
+- *2020-10-29*: **PANGOLIN: Incremental Hybrid Fuzzing with Polyhedral Path Abstraction** @ S&P 2020
+- *2020-10-30*: **Exploiting Mixed Binaries** 
 
