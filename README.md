@@ -156,4 +156,6 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-10-28*: **NativeX: Native Executioner Freezes Android** @ ASIA CCS 2020
 - *2020-10-29*: **PANGOLIN: Incremental Hybrid Fuzzing with Polyhedral Path Abstraction** @ S&P 2020
 - *2020-10-30*: **Exploiting Mixed Binaries** 
+- *2020-11-02*: **iDEA: Static Analysis on the Security of Apple Kernel Drivers** @ CCS 2020
+- *2020-11-03*: **RTFM! Automatic Assumption Discovery and Verification Derivation from Library Document for API Misuse Detection** @ CCS 2020
 
