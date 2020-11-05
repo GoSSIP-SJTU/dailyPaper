@@ -158,4 +158,5 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-10-30*: **Exploiting Mixed Binaries** 
 - *2020-11-02*: **iDEA: Static Analysis on the Security of Apple Kernel Drivers** @ CCS 2020
 - *2020-11-03*: **RTFM! Automatic Assumption Discovery and Verification Derivation from Library Document for API Misuse Detection** @ CCS 2020
+- *2020-11-04*: **A Systematic Study of Elastic Objects in Kernel Exploitation** @ CCS 2020
 
