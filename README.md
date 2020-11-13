@@ -113,7 +113,7 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-08-20*: **BASTION: A Security Enforcement Network Stack for Container Networks** @ Usenix ATC 2020
 - *2020-08-21*: **FuZZan: Efficient Sanitizer Metadata Design for Fuzzing** @ Usenix ATC 2020
 - *2020-08-24*: **Magma: A Ground-Truth Fuzzing Benchmark**
-- *2020-08-25*: **SoK: Security and Privacy in the Age ofCommercial Drones** @ S&P 2021
+- *2020-08-25*: **SoK: Security and Privacy in the Age of Commercial Drones** @ S&P 2021
 - *2020-08-26*: **A Generic Technique for Automatically FindingDefense-Aware Code Reuse Attacks** @ CCS 2020
 - *2020-08-27*: **A Study of the Privacy of COVID-19 Contact Tracing Apps** @ SECURECOMM 2020
 - *2020-08-28*: **The Art, Science, and Engineering of Fuzzing: A Survey** @ TSE 2019
@@ -163,4 +163,5 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-11-07*: **Investigating Large Scale HTTPS Interception in Kazakhstan** @ IMC 2020
 - *2020-11-09*: **PDiff: Semantic-based Patch Presence Testing for Downstream Kernels** @ CCS 2020
 - *2020-11-10*: **On Measuring RPKI Relying Parties** @ IMC 2020
+- *2020-11-12*: **Method Confusion Attack on Bluetooth Pairing** @ IEEE S&P 2021
 
