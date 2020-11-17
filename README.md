@@ -164,4 +164,6 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-11-09*: **PDiff: Semantic-based Patch Presence Testing for Downstream Kernels** @ CCS 2020
 - *2020-11-10*: **On Measuring RPKI Relying Parties** @ IMC 2020
 - *2020-11-12*: **Method Confusion Attack on Bluetooth Pairing** @ IEEE S&P 2021
+- *2020-11-13*: **Analyzing Third Party Service Dependencies in Modern Web Services: Have We Learned from the Mirai-Dyn Incident?** @ IMC 2020
+- *2020-11-16*: **Methodologies for Quantifying (Re-)randomization Security and Timing under JIT-ROP** @ CCS 2020
 
