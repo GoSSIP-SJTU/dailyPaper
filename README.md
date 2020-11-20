@@ -166,4 +166,7 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-11-12*: **Method Confusion Attack on Bluetooth Pairing** @ IEEE S&P 2021
 - *2020-11-13*: **Analyzing Third Party Service Dependencies in Modern Web Services: Have We Learned from the Mirai-Dyn Incident?** @ IMC 2020
 - *2020-11-16*: **Methodologies for Quantifying (Re-)randomization Security and Timing under JIT-ROP** @ CCS 2020
+- *2020-11-17*: **Logging to the Danger Zone: Race Condition Attacks and Defenses on System Audit Frameworks** @ CCS 2020
+- *2020-11-18*: **Similarity of Binaries Across Optimization Levels and Obfuscation** @ ESORICS 2020 
+- *2020-11-19*: **Nibbler: Debloating Binary Shared Libraries** @ ACSAC 2020
 
