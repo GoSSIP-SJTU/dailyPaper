@@ -169,4 +169,6 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-11-17*: **Logging to the Danger Zone: Race Condition Attacks and Defenses on System Audit Frameworks** @ CCS 2020
 - *2020-11-18*: **Similarity of Binaries Across Optimization Levels and Obfuscation** @ ESORICS 2020 
 - *2020-11-19*: **Nibbler: Debloating Binary Shared Libraries** @ ACSAC 2020
+- *2020-11-20*: **Tracing and Analyzing Web Access Paths Based on User-Side Data Collection: How Do Users Reach Malicious URLs?** @ RAID 2020
+- *2020-11-23*: **The Cookie Hunter: Automated Black-box Auditing for Web Authentication and Authorization Flaws** @ CCS 2020
 
