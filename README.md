@@ -171,4 +171,5 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-11-19*: **Nibbler: Debloating Binary Shared Libraries** @ ACSAC 2020
 - *2020-11-20*: **Tracing and Analyzing Web Access Paths Based on User-Side Data Collection: How Do Users Reach Malicious URLs?** @ RAID 2020
 - *2020-11-23*: **The Cookie Hunter: Automated Black-box Auditing for Web Authentication and Authorization Flaws** @ CCS 2020
+- *2020-11-24*: **Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches** @ NDSS 2020
 
