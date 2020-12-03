@@ -177,4 +177,5 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-11-27*: **Fill in the Blanks: Empirical Analysis of the Privacy Threats of Browser Form Autofill** @ CCS 2020
 - *2020-11-30*: **FreeDom: Engineering a State-of-the-Art DOM Fuzzer** @ CCS 2020
 - *2020-12-01*: **UNICORN: Runtime Provenance-Based Detector for Advanced Persistent Threats** @ NDSS 2020
+- *2020-12-02*: **Saphire: Sandboxing PHP Applications with Tailored System Call Allowlists** @ Usenix Security 2021
 
