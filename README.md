@@ -178,4 +178,11 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-11-30*: **FreeDom: Engineering a State-of-the-Art DOM Fuzzer** @ CCS 2020
 - *2020-12-01*: **UNICORN: Runtime Provenance-Based Detector for Advanced Persistent Threats** @ NDSS 2020
 - *2020-12-02*: **Saphire: Sandboxing PHP Applications with Tailored System Call Allowlists** @ Usenix Security 2021
+- *2020-12-03*: **Black Widow: Blackbox Data-driven Web Scanning** @ IEEE S&P 2021
+- *2020-12-04*: **HAWatcher: Semantics-Aware Anomaly Detection for Appified Smart Homes** @  Usenix Security 2021 
+- *2020-12-07*: **PACStack: an Authenticated Call Stack** @ Usenix Security 2021
+- *2020-12-08*: **PAC it up: Towards Pointer Integrity using ARM Pointer Authentication** @ Usenix Security 2019
+- *2020-12-09*: **CAPS: Smoothly Transitioning to a More Resilient Web PKI** @ ACSAC 2020 
+- *2020-12-10*: **Why Eve and Mallory Still Love Android: Revisiting TLS (In)Security in Android Applications** @ Usenix Security 2021
+- *2020-12-11*: **JSKernel: Fortifying JavaScript against Web Concurrency Attacks via a Kernel-like Structure** @ DSN 2020
 
