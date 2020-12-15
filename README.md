@@ -9,6 +9,28 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-02-17*: **Why Cryptosystems Fail Revisited**
 - *2020-02-18*: **Nail: A Practical Tool for Parsing  and Generating Data Formats** @ OSDI 2014
 - *2020-02-19*: **Postcards from the Post-HTTP World:Amplification of HTTPS Vulnerabilities in the Web Ecosystem** @ IEEE S&P 2019
+- *2020-02-20*: **Automatic Fingerprinting of Vulnerable BLE IoT Devices with Static UUIDs from Mobile Apps** @ CCS 2019
+- *2020-02-21*: **SMARTSHIELD: Automatic Smart Contract Protection Made Easy** @ SANER 2020
+- *2020-02-23*: **新型冠状病毒感染疫情下的思考**
+- *2020-02-24*: **An Empirical Study of Android Security Bulletins in Different Vendors** @ WWW 2020
+- *2020-02-25*: **Burglars’ IoT Paradise: Understanding and Mitigating Security Risks of General Messaging Protocols on IoT Clouds** @ IEEE S&P 2020
+- *2020-02-26*: **Gollum: Modular and Greybox Exploit Generation for Heap Overflows in Interpreters** @ CCS 2019
+- *2020-02-27*: **An Observational Investigation of Reverse Engineers’ Processes** @ Usenix Security 2020
+- *2020-02-28*: **Prevalence and Impact of Low-Entropy Packing Schemes in the Malware Ecosystem** @ NDSS 2020
+- *2020-03-02*: **Program Analysis of Commodity IoT Applications for Security and Privacy: Challenges and Opportunities** @ ACM Computing Surveys 2019-8
+- *2020-03-03*: **Pseudorandom Black Swans: Cache Attacks on CTR DRBG** @ IEEE S&P 2020
+- *2020-03-04*: **Why Does Your Data Leak? Uncovering the Data Leakage in Cloud from Mobile Apps** @ IEEE S&P 2019
+- *2020-03-05*: **Evanesco: Architectural Support for Efficient Data Sanitization in Modern Flash-Based Storage Systems** @ ASPLOS 2020
+- *2020-03-06*: **Container Security: Issues, Challenges, and the Road Ahead** @ IEEE Access
+- *2020-03-09*: **FUSE: Finding File Upload Bugs via Penetration Testing** @ NDSS 2020
+- *2020-03-10*: **An Analysis of Pre-installed Android Software** @ IEEE S&P 2020
+- *2020-03-11*: **DEEPBINDIFF: Learning Program-Wide Code Representations for Binary Diffing** @ NDSS 2020
+- *2020-03-12*: **Fast, Furious and Insecure: Passive Keyless Entry and Start Systems in Modern Supercars** @ CHES 2019
+- *2020-03-13*: **A Large-Scale Empirical Study on Vulnerability Distribution within Projects and the Lessons Learned** @ ICSE 2020
+- *2020-3-16*: **IJON: Exploring Deep State Spaces via Fuzzing** @ IEEE S&P 2020
+- *2020-03-17*: **SoK: Benchmarking Flaws in Systems Security** @ Euro S&P 2019
+- *2020-03-18*: **KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware** @ IEEE S&P 2020
+- *2020-03-19*: **SPIDER: Enabling Fast Patch Propagation in Related Software Repositories** @ IEEE S&P 2020
 - *2020-03-20*: **Revealing Injection Vulnerabilities by Leveraging Existing Tests** @ ICSE 2020
 - *2020-03-23*: **Serving Mobile Apps A Slice at a Time** @ Eurosys 2019
 - *2020-03-24*: **CRYPTOGUARD** @ CCS 2019
