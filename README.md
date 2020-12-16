@@ -207,4 +207,6 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-12-09*: **CAPS: Smoothly Transitioning to a More Resilient Web PKI** @ ACSAC 2020 
 - *2020-12-10*: **Why Eve and Mallory Still Love Android: Revisiting TLS (In)Security in Android Applications** @ Usenix Security 2021
 - *2020-12-11*: **JSKernel: Fortifying JavaScript against Web Concurrency Attacks via a Kernel-like Structure** @ DSN 2020
+- *2020-12-14*: **UNIFUZZ: A Holistic and Pragmatic Metrics-Driven Platform for Evaluating Fuzzers** @ Usenix Security 2021
+- *2020-12-15*: **Understanding and Securing Device Vulnerabilities through Automated BugReport Analysis** @ Usenix Security 2019
 
