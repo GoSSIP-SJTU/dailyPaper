@@ -209,4 +209,6 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-12-11*: **JSKernel: Fortifying JavaScript against Web Concurrency Attacks via a Kernel-like Structure** @ DSN 2020
 - *2020-12-14*: **UNIFUZZ: A Holistic and Pragmatic Metrics-Driven Platform for Evaluating Fuzzers** @ Usenix Security 2021
 - *2020-12-15*: **Understanding and Securing Device Vulnerabilities through Automated BugReport Analysis** @ Usenix Security 2019
+- *2020-12-16*: **Depending on HTTP/2 for Privacy? Good Luck!** @ DSN 2020
+- *2020-12-17*: **A Flexible Framework for Expediting Bug Finding by Leveraging Past (Mis-)Behavior to Discover New Bugs** @ ACSAC 2020
 
