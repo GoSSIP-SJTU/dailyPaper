@@ -212,3 +212,8 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2020-12-16*: **Depending on HTTP/2 for Privacy? Good Luck!** @ DSN 2020
 - *2020-12-17*: **A Flexible Framework for Expediting Bug Finding by Leveraging Past (Mis-)Behavior to Discover New Bugs** @ ACSAC 2020
 
+- *2020-12-18*: **Up2Dep: Android Tool Support to Fix Insecure Code Dependencies** @ ACSAC 2020
+- *2020-12-21*: **Frankenstein: Advanced Wireless Fuzzing to Exploit New Bluetooth Escalation Targets** @ Usenix Security 2020
+- *2020-12-22*: **BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy** @ Usenix Security Woot 2020
+- *2020-12-23*: **MalMax: Multi-Aspect Execution for Automated Dynamic Web Server Malware Analysis** @ CCS 2019
+- *2020-12-24*: **Can I Take Your Subdomain? Exploring Related-Domain Attacks in the Modern Web** 
