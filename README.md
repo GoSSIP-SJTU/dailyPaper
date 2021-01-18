@@ -11,4 +11,5 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2021-01-12*: **Detecting Kernel Memory Leaks in Specialized Modules with Ownership Reasoning** @ NDSS 2021
 - *2021-01-13*: **Zipper Stack: Shadow Stacks Without Shadow** @ ESORICS 2020
 - *2021-01-14*: ***AndroEvolve*: Automated Update for Android Deprecated-API Usages**
+- *2021-01-15*: **TEEREX: Discovery and Exploitation of Memory Corruption Vulnerabilities in SGX Enclaves** @ USENIX Security 2020 
 
