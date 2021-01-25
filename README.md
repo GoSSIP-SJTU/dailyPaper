@@ -12,4 +12,10 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2021-01-13*: **Zipper Stack: Shadow Stacks Without Shadow** @ ESORICS 2020
 - *2021-01-14*: ***AndroEvolve*: Automated Update for Android Deprecated-API Usages**
 - *2021-01-15*: **TEEREX: Discovery and Exploitation of Memory Corruption Vulnerabilities in SGX Enclaves** @ USENIX Security 2020 
+- *2021-01-18*: **Agamotto: Accelerating Kernel Driver Fuzzing with Lightweight Virtual Machine Checkpoints** @ Usenix Security 2020
+- *2021-01-19*: **Peek-a-Boo: I see your smart home activities, even encrypted!** @ Wisec 2020
+- *2021-01-20*: **To Err.Is Human: Characterizing the Threat of Unintended URLs in Social Media** @ NDSS 2021
+
+- *2021-01-21*: **RusTEE: Developing Memory-Safe ARM TrustZone Applications** @ ACSAC 2020
+- *2021-01-22*: **Reining in the Web’s Inconsistencies with Site Policy** @ NDSS 2021
 
