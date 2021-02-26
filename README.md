@@ -15,7 +15,22 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2021-01-18*: **Agamotto: Accelerating Kernel Driver Fuzzing with Lightweight Virtual Machine Checkpoints** @ Usenix Security 2020
 - *2021-01-19*: **Peek-a-Boo: I see your smart home activities, even encrypted!** @ Wisec 2020
 - *2021-01-20*: **To Err.Is Human: Characterizing the Threat of Unintended URLs in Social Media** @ NDSS 2021
-
 - *2021-01-21*: **RusTEE: Developing Memory-Safe ARM TrustZone Applications** @ ACSAC 2020
 - *2021-01-22*: **Reining in the Web’s Inconsistencies with Site Policy** @ NDSS 2021
+- *2021-01-25*: **Devil is Virtual: Reversing Virtual Inheritance in C++ Binaries** @ CCS 2020
+- *2021-01-26*: **IOTSAFE: Enforcing Safety and Security Policy with Real IoT Physical Interaction Discovery** @ NDSS 2021
+- *2021-01-27*: **The Boon and Bane of Cross-Signing: Shedding Light on a Common Practice in Public Key Infrastructures** @ CCS 2020
+- *2021-01-28*: **The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts** 
+- *2021-01-29*: **Favocado: Fuzzing the Binding Code of JavaScript Engines Using Semantically Correct TestCases** @ NDSS 2021
+- *2021-02-01*: **RetroWrite: Statically Instrumenting COTS Binaries for Fuzzing and Sanitization ** @ IEEE S&P 2020 
+- *2021-02-02*: **DIANE: Identifying Fuzzing Triggers in Apps to Generate Under-constrained Inputs for IoT Devices** @ IEEE S&P 2021
+- *2021-02-03*: **Tales of FAVICONS and Caches: Persistent Tracking in Modern Browsers** @ NDSS 2021
+- *2021-02-04*: **Preventing and Detecting State Inference Attacks on Android** @ NDSS 2021
+- *2021-02-05*: **Who’s Hosting the Block Party? Studying Third-Party Blockage of CSP and SRI** @ NDSS 2021
+- *2021-02-18*: **OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary** @ IEEE S&P 2021
+- *2021-02-19*: **The Tangled Genealogy of IoT Malware** @ ACSAC 2020
+- *2021-02-22*: **POP and PUSH: Demystifying and Defending against (Mach) Port-Oriented Programming** @  NDSS 2021 
+- *2021-02-23 ~ 2021-02-24*: **NDSS 2021 参会小记**
+
+
 
