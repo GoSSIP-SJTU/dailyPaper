@@ -22,15 +22,21 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2021-01-27*: **The Boon and Bane of Cross-Signing: Shedding Light on a Common Practice in Public Key Infrastructures** @ CCS 2020
 - *2021-01-28*: **The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts** 
 - *2021-01-29*: **Favocado: Fuzzing the Binding Code of JavaScript Engines Using Semantically Correct TestCases** @ NDSS 2021
-- *2021-02-01*: **RetroWrite: Statically Instrumenting COTS Binaries for Fuzzing and Sanitization ** @ IEEE S&P 2020 
+- *2021-02-01*: **RetroWrite: Statically Instrumenting COTS Binaries for Fuzzing and Sanitization** @ IEEE S&P 2020 
 - *2021-02-02*: **DIANE: Identifying Fuzzing Triggers in Apps to Generate Under-constrained Inputs for IoT Devices** @ IEEE S&P 2021
 - *2021-02-03*: **Tales of FAVICONS and Caches: Persistent Tracking in Modern Browsers** @ NDSS 2021
 - *2021-02-04*: **Preventing and Detecting State Inference Attacks on Android** @ NDSS 2021
 - *2021-02-05*: **Who’s Hosting the Block Party? Studying Third-Party Blockage of CSP and SRI** @ NDSS 2021
 - *2021-02-18*: **OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary** @ IEEE S&P 2021
 - *2021-02-19*: **The Tangled Genealogy of IoT Malware** @ ACSAC 2020
-- *2021-02-22*: **POP and PUSH: Demystifying and Defending against (Mach) Port-Oriented Programming** @  NDSS 2021 
-- *2021-02-23 ~ 2021-02-24*: **NDSS 2021 参会小记**
+- *2021-02-22*: **POP and PUSH: Demystifying and Defending against (Mach) Port-Oriented Programming** @ NDSS 2021 
+- *2021-02-23 ~ 2021-02-25*: **NDSS 2021 参会小记**
+- *2021-02-26*: **Who’s Debugging the Debuggers? Exposing Debug Information Bugs in Optimized Binaries** @ ASPLOS 2021
+- *2021-03-01*: **SerialDetector: Principled and Practical Exploration of Object Injection Vulnerabilities for the Web** @ NDSS 2021
+- *2021-03-02*: **What’s in an Exploit? An Empirical Analysis of Reflected Server XSS Exploitation Techniques** @ RAID 2020
+- *2021-03-03*: **Guide Me to Exploit: Assisted ROP Exploit Generation for ActionScript Virtual Machine** @ ACSAC 2020
+- *2021-03-04*: **Mitigating Data Leakage by Protecting Memory-resident Sensitive Data** @ ACSAC 2019
+- *2021-03-05*: **Demystifying Diehard Android Apps** @ ASE 2020
 
 
 
