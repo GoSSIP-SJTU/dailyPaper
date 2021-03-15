@@ -37,6 +37,11 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2021-03-03*: **Guide Me to Exploit: Assisted ROP Exploit Generation for ActionScript Virtual Machine** @ ACSAC 2020
 - *2021-03-04*: **Mitigating Data Leakage by Protecting Memory-resident Sensitive Data** @ ACSAC 2019
 - *2021-03-05*: **Demystifying Diehard Android Apps** @ ASE 2020
+- *2021-03-08*: **Security Study of Service Worker Cross-Site Scripting** @ ACSAC 2020
+- *2021-03-09*: **Assessing the Impact of Script Gadgets on CSP at Scale** @ ASIA CCS 2020
+- *2021-03-10*: **ATVHUNTER: Reliable Version Detection of Third-Party Libraries for Vulnerability Identification in Android Applications** @ ICSE 2021
+- *2021-03-11*: **Too Quiet in the Library: An Empirical Study of Security Updates in Android Apps’ Native Code** @ ICSE 2021
+- *2021-03-12*: **You Are What You Broadcast: Identification of Mobile and IoT Devices from (Public) WiFi** @ Usenix Security 2020
 
 
 
