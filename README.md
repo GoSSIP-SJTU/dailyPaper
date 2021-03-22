@@ -42,6 +42,11 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2021-03-10*: **ATVHUNTER: Reliable Version Detection of Third-Party Libraries for Vulnerability Identification in Android Applications** @ ICSE 2021
 - *2021-03-11*: **Too Quiet in the Library: An Empirical Study of Security Updates in Android Apps’ Native Code** @ ICSE 2021
 - *2021-03-12*: **You Are What You Broadcast: Identification of Mobile and IoT Devices from (Public) WiFi** @ Usenix Security 2020
+- *2021-03-15*: **A Tale of Two Headers: A Formal Analysis of Inconsistent Click-Jacking Protection on the Web** @ USENIX Security 2020
+- *2021-03-16*: **SpecuSym: Speculative Symbolic Execution for Cache Timing Leak Detection** @ ICSE 2020
+- *2021-03-17*: **Automated Third-Party Library Detection for Android Applications: Are We There Yet?** @ ICSE 2021
+- *2021-03-18*: **Undo Workarounds for Kernel Bugs** @ Usenix Security 2021
+- *2021-03-19*: **Defense Mechanisms Against DDoS Attacks in a Cloud Computing Environment: State-of-the-Art and Research Challenges** @ IEEE Communications Surveys & Tutorials 2019
 
 
 
