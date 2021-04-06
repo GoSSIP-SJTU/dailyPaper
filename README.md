@@ -47,6 +47,15 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2021-03-17*: **Automated Third-Party Library Detection for Android Applications: Are We There Yet?** @ ICSE 2021
 - *2021-03-18*: **Undo Workarounds for Kernel Bugs** @ Usenix Security 2021
 - *2021-03-19*: **Defense Mechanisms Against DDoS Attacks in a Cloud Computing Environment: State-of-the-Art and Research Challenges** @ IEEE Communications Surveys & Tutorials 2019
+- *2021-03-22*: **KUBO: Precise and Scalable Detection of User-triggerable Undefined Behavior Bugs in OS Kernel** @ NDSS 2021 
+- *2021-03-23*: **An Investigation of the Android Kernel Patch Ecosystem** @ USENIX Security 2021
+- *2021-03-24*: **NETPLIER: Probabilistic Network Protocol Reverse Engineering from Message Traces** @ NDSS 2021
+- *2021-03-25*: **Cali: Compiler-Assisted Library Isolation** @ AsiaCCS 2021
+- *2021-03-29*: **SinkFinder: Harvesting Hundreds of Unknown Interesting Function Pairs with Just One Seed** @ FSE 2020 
+- *2021-03-30*: **Looking from the Mirror: Evaluating IoT Device Security through Mobile Companion Apps** @ Usenix Security 2019 
+- *2021-03-31*: **On the Insecurity of SMS One-Time Password Messages against Local Attackers in Modern Mobile Devices** @ NDSS 2021
+- *2021-04-01*: **Careful Who You Trust: Studying the Pitfalls of Cross-Origin Communication** @ AsiaCCS 2021
+- *2021-04-02*: **Unleashing the Hidden Power of Compiler Optimization on Binary Code Difference: An Empirical Study** @ PLDI 2021 
 
 
 
