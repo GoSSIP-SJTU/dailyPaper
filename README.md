@@ -56,6 +56,11 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2021-03-31*: **On the Insecurity of SMS One-Time Password Messages against Local Attackers in Modern Mobile Devices** @ NDSS 2021
 - *2021-04-01*: **Careful Who You Trust: Studying the Pitfalls of Cross-Origin Communication** @ AsiaCCS 2021
 - *2021-04-02*: **Unleashing the Hidden Power of Compiler Optimization on Binary Code Difference: An Empirical Study** @ PLDI 2021 
+- *2021-04-06*: **JAW: Studying Client-side CSRF with Hybrid Property Graphs and Declarative Traversals** @ Usenix Security 2021
+- *2021-04-07*: **What’s in a Name? Exploring CA Certificate Control** @ Usenix Security 2021
+- *2021-04-08*: **TxSpector: Uncovering Attacks in Ethereum from Transactions** @ Usenix Security 2020
+- *2021-04-09*: **Android SmartTVs Vulnerability Discovery via Log-Guided Fuzzing** @ Usenix Security 2021
+- *2021-04-12*: **On the Feasibility of Automated Built-in Function Modeling for PHP Symbolic Execution** @ WWW 2021
 
 
 
