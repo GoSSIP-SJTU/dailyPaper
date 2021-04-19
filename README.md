@@ -61,6 +61,10 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2021-04-08*: **TxSpector: Uncovering Attacks in Ethereum from Transactions** @ Usenix Security 2020
 - *2021-04-09*: **Android SmartTVs Vulnerability Discovery via Log-Guided Fuzzing** @ Usenix Security 2021
 - *2021-04-12*: **On the Feasibility of Automated Built-in Function Modeling for PHP Symbolic Execution** @ WWW 2021
+- *2021-04-13*: **EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts** @ Usenix Security 2021 
+- *2021-04-14*: **You Are Who You Appear to Be** @ CCS 2019
+- *2021-04-15*: **FIRestarter: Practical Software Crash Recovery with Targeted Library-level Fault Injection** @ DSN 2021
+- *2021-04-16*: **Hiding in the Particles: When Return-Oriented Programming Meets Program Obfuscation** @ DSN 2021 
 
 
 
