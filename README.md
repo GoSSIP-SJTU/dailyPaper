@@ -65,6 +65,16 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2021-04-14*: **You Are Who You Appear to Be** @ CCS 2019
 - *2021-04-15*: **FIRestarter: Practical Software Crash Recovery with Targeted Library-level Fault Injection** @ DSN 2021
 - *2021-04-16*: **Hiding in the Particles: When Return-Oriented Programming Meets Program Obfuscation** @ DSN 2021 
+- *2021-04-19*: **TLS 1.3 in Practice: How TLS 1.3 Contributes to the Internet** @ WWW 2021
+- *2021-04-20*: **SoK: The Faults in our ASRs: An Overview of Attacks against Automatic Speech Recognition and Speaker Identification Systems** @ IEEE S&P 2021
+- *2021-04-21*: **Disrupting Continuity of Apple’s Wireless Ecosystem Security: New Tracking, DoS, and MitM Attacks on iOS and macOS Through Bluetooth Low Energy, AWDL, and Wi-Fi** @ Usenix Security 2021
+- *2021-04-22*: **RELOAD+REFRESH: Abusing Cache Replacement Policies to Perform Stealthy Cache Attacks** @ Usenix Security 2020
+- *2021-04-23*: **Obfuscation-Resilient Executable Payload Extraction From Packed Malware** @ Usenix Security 2021
+- *2021-04-26*: **Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems** @ Usenix Security 2021
+- *2021-04-27*: **Home, SafeHome: Smart Home Reliability with Visibility and Atomicity** @ EuroSys 2021
+- *2021-04-28*: **IMGDroid: Detecting Image Loading Defects in Android Applications** @ ICSE 2021
+- *2021-04-29*: **Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer** @ Usenix Security 2020
+- *2021-04-30*: **Understanding and Detecting Disordered Error Handling with Precise Function Pairing** @ Usenix Security 2021 
 
 
 
