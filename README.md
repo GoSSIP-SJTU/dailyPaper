@@ -83,4 +83,8 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2021-05-12*: **Assessing Browser-level Defense against IDN-based Phishing** @ USENIX Security 2021 
 - *2021-05-13*: **Unikraft: Fast, Specialized Unikernels the Easy Way** @ EuroSys 2021
 - *2021-05-14*: **REVEALER: Detecting and Exploiting Regular Expression Denial-of-Service Vulnerabilities** @ IEEE S&P 2021
-
+- *2021-05-17*: **Abusing Hidden Properties to Attack the Node.js Ecosystem** @ USENIX Security 2021
+- *2021-05-18*: **Detecting and Understanding JavaScript Global Identifier Conflicts on the Web** @ FSE 2020
+- *2021-05-19*: **HyDiff: Hybrid Differential Software Analysis** @ ICSE 2020
+- *2021-05-20*: **CubicleOS: A Library OS with Software Componentisation for Practical Isolation** @ ASPLOS 2021 
+- *2021-05-21*: **Runtime Recovery of Web Applications under Zero-Day ReDoS Attacks** @ IEEE S&P 2021 
