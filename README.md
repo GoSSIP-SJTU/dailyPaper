@@ -88,3 +88,6 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2021-05-19*: **HyDiff: Hybrid Differential Software Analysis** @ ICSE 2020
 - *2021-05-20*: **CubicleOS: A Library OS with Software Componentisation for Practical Isolation** @ ASPLOS 2021 
 - *2021-05-21*: **Runtime Recovery of Web Applications under Zero-Day ReDoS Attacks** @ IEEE S&P 2021 
+- *2021-05-24 ~ 2021-05-27*: **IEEE S&P 2021 参会小记**
+- *2021-05-28*: **DPIFuzz: A Differential Fuzzing Framework to Detect DPI Elusion Strategies for QUIC** @ ACSAC 2020
+
