@@ -90,4 +90,9 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2021-05-21*: **Runtime Recovery of Web Applications under Zero-Day ReDoS Attacks** @ IEEE S&P 2021 
 - *2021-05-24 ~ 2021-05-27*: **IEEE S&P 2021 参会小记**
 - *2021-05-28*: **DPIFuzz: A Differential Fuzzing Framework to Detect DPI Elusion Strategies for QUIC** @ ACSAC 2020
+- *2021-05-31*: **Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited** @ USENIX Security 2021 
+- *2021-06-01*: **PyCG: Practical Call Graph Generation in Python** @ ICSE 2021 
+- *2021-06-02*: **One Engine to Fuzz ’em All: Generic Language Processor Testing with Semantic Validation** @ IEEE S&P 2021 
+- *2021-06-03*: **Scalable Memory Protection in the PENGLAI Enclave** @ OSDI 2021
 
+- *2021-06-04*: **Towards a Lightweight, Hybrid Approach for Detecting DOM XSS Vulnerabilities with Machine Learning** @ WWW 2021
