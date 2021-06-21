@@ -94,5 +94,14 @@ https://github.com/GoSSIP-SJTU/dailyPaper/
 - *2021-06-01*: **PyCG: Practical Call Graph Generation in Python** @ ICSE 2021 
 - *2021-06-02*: **One Engine to Fuzz ’em All: Generic Language Processor Testing with Semantic Validation** @ IEEE S&P 2021 
 - *2021-06-03*: **Scalable Memory Protection in the PENGLAI Enclave** @ OSDI 2021
-
 - *2021-06-04*: **Towards a Lightweight, Hybrid Approach for Detecting DOM XSS Vulnerabilities with Machine Learning** @ WWW 2021
+- *2021-06-07*: **Linking Bluetooth LE & Classic and Implications for Privacy-Preserving Bluetooth-Based Protocols** @ IEEE S&P 2021
+- *2021-06-08*: **Slimium: Debloating the Chromium Browser with Feature Subsetting** @ CCS 2020
+- *2021-06-09*: **Looking Back! Using Early Versions of Android Apps as Attack Vectors** @ TDSC 2021 
+- *2021-06-10*: **Parema: An Unpacking Framework for Demystifying VM-Based Android Packers** @ ISSTA 2021 
+- *2021-06-11*: **JShrink: In-Depth Investigation into Debloating Modern Java Applications** @ FSE 2020 
+- *2021-06-15*: **Security Analysis of Mobile Device-to-Device Network Applications** @ IEEE Internet of Things Journal 2018
+- *2021-06-16*: **If It’s Not Secure, It Should Not Compile: Preventing DOM-Based XSS in Large-Scale Web Development with API Hardening** @ ICSE 2021 
+- *2021-06-17*: **Cryptanalysis of the GPRS Encryption Algorithms GEA-1 and GEA-2** @ Eurocrypt 2021
+- *2021-06-18*: **Android Custom Permissions Demystified: From Privilege Escalation to Design Shortcomings** @ IEEE S&P 2021 
+
